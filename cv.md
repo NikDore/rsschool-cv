@@ -18,3 +18,16 @@ I am 35 years old, I work as a engineer.  I think the courses will help me to jo
 * JavaScript
 * Git 
 * Figma
+
+# Code examples
+
+```
+function nthFibo(n) {
+   
+  if (n===1) return 0
+  if (n===2) return 1
+  return nthFibo(n-1) + nthFibo (n-2)
+} 
+ 
+}  
+```
