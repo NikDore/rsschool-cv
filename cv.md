@@ -31,3 +31,17 @@ function nthFibo(n) {
  
 }  
 ```
+
+# Education
+
+* **Belarusian State Technological University**
+    * Engineering Faculty
+
+
+# Experience
+
+* I have little experience in Frontend development. I study materials and practice skills.
+
+# Languages
+- Russian
+- English 
